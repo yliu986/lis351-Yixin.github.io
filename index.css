@@ -1,0 +1,50 @@
+
+/* Formatting index */
+
+
+	h1 {text-align: center;}
+	h1 {font-family: Arial, sans-serif;
+			line-height: 1.5}
+	h1 {color: #2F4F4F}
+
+
+	h2 {font-family: Arial, sans-serif;
+			line-height: 1.5; margin-top: 40px}
+	h2 {color: #FF7F50}
+	
+
+	nav li {display: inline-block;
+			margin-right: 20px;}
+	nav li: last-child{margin-right:0;}
+
+	nav ul {list-style: none;
+			padding: 0
+			margin: 0
+			display: inline-blocks}
+
+	ol {font-family: Arial, sans-serif;
+			line-height: 1.5; margin-bottom: 80px}
+
+
+	li {font-family: Arial, sans-serif;
+			line-height: 1.5}
+
+
+	body {background-color: #FFFFF0;}
+	body {margin: 40px}
+	
+	p {font-family: Arial, sans-serif;
+			line-height: 1.5}
+	p{margin-bottom: 1em;}
+	p: last-of-type {margin-bottom: 30px;}
+
+
+	div{text-align:center}
+
+	
+	footer{text-align:center;}
+
+
+
+
+

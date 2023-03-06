@@ -1,0 +1,27 @@
+
+
+ol li {margin-bottom: 10px;}
+p {font-family: Arial, sans-serif;
+			line-height: 1.5}
+h2 {font-family: Arial, sans-serif;
+			line-height: 1.5}
+dt {font-family: Arial, sans-serif;
+			line-height: 1.5}
+dd {font-family: Arial, sans-serif;
+			line-height: 1.5}
+body {background-color: #FAF0E6;}
+nav ul {list-style: none;
+			padding: 0
+			margin: 0
+			display: inline-blocks}
+
+nav li {display: inline-block;
+			margin-right: 20px;}
+nav li: last-child{margin-right:0;}
+body {margin: 40px}
+dl {margin-bottom: 80px}
+footer{text-align:center;}
+p{margin-bottom: 1em;}
+div {color:#2F4F4F; text-align: center}
+h2 {color:#FF7F50}
+p {line-height: 1.5}
