@@ -1,5 +1,8 @@
 
 h1 {text-align: center;}
+h1 {sans-serif;
+			line-height: 1.5;
+			color:#2F4F4F}
 ol li {margin-bottom: 10px;}
 p {font-family: Arial, sans-serif;
 			line-height: 1.5}
